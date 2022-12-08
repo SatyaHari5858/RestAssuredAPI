@@ -30,7 +30,7 @@ public class POSTMethod extends BaseTest {
 	@Steps
 	APISteps api;
 
-	@Title("Sennding POST Request for creating new user")
+	@Title("Sending POST Request for creating new user")
 	@Test
 	public void POSTRequest() {
 
